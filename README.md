@@ -33,3 +33,5 @@ The information required includes:
 4. Create a dictionary of the **JSON** output
 5. Return the output
 6. End
+
+## Usage
